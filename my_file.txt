@@ -1,0 +1,6 @@
+This is my first text.
+Here is my second text, with  numbers: 12345
+Finally, my third line with some more text.
+Appending my new fourth line.
+And here is another fifth line with some extra words.
+Finally, my sixth line, the final one to end this example.
